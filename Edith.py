@@ -1,9 +1,9 @@
 import speech_recognition as sr
 import pyttsx3 as p
-from PROJECTS.EDITH---Personal-Automation-assistant-.Movie_reviews import *
-from PROJECTS.EDITH---Personal-Automation-assistant-.Youtube_Music import *
-from PROJECTS.EDITH---Personal-Automation-assistant-.Wikipedia_Search import *
-from PROJECTS.EDITH---Personal-Automation-assistant-.Recommendations import *
+from EDITH---Personal-Automation-assistant-.Movie_reviews import *
+from EDITH---Personal-Automation-assistant-.Youtube_Music import *
+from EDITH---Personal-Automation-assistant-.Wikipedia_Search import *
+from EDITH---Personal-Automation-assistant-.Recommendations import *
 
 #enter your name
 name = str(input("Enter your name:"))
